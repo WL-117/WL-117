@@ -20,7 +20,7 @@ Building at the intersection of **Web Frontend** and **LLM Agents**.
 - **Focus** · 关注方向：前端工程化（Vue 3 / uni-app）与 LLM Agent 的应用落地。
 - **Learning** · 正在深入：LangGraph、Agent 工作流编排、Python 工程化。
 - **Interests** · 兴趣：把课程里的想法做成能真正跑起来的小产品。
-- **Open to** · 求职方向：前端开发、AI 应用（Agent）。
+- **Open to** · 求职方向：Agent 工程。
 
 ## Tech Stack / 技术栈
 
