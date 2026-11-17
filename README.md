@@ -32,20 +32,22 @@ Building at the intersection of **Web Frontend** and **LLM Agents**.
 
 ## Featured Projects / 项目
 
+### Campus Dormitory Repair App / 校园宿舍报修 APP
+`uni-app x` · `Vue 3` · `Node.js` — *Public · 已完成*
+
+面向校园场景的宿舍报修系统：报修提交、工单流转与状态跟踪，配套管理端派单与零依赖后端。
+A campus repair system covering request submission, ticket routing and status tracking, with an admin console and a zero-dependency Node backend.
+
+[源码仓库 →](https://github.com/WL-117/campus-dorm-repair-app)
+
 ### AI Agent Playground
 `Python` · `LangGraph` · `LLM` — *In progress / 进行中*
 
 用 LangGraph 编排的多步 Agent 实验：工具调用、状态流转与失败重试的实践记录。
 Multi-step agent experiments built on LangGraph — tool calling, state flow and retry strategies.
 
-### Campus Dormitory Repair App / 校园宿舍报修 APP
-`uni-app` · `Vue 3` — *Course project / 课程项目*
-
-面向校园场景的宿舍报修小程序：报修提交、工单流转与状态跟踪。
-A campus repair mini-program covering request submission, ticket routing and status tracking.
-
-> Repositories for the projects above are being cleaned up and will be published soon.
-> 以上项目的仓库正在整理，后续会陆续开源。
+> AI Agent Playground 的仓库还在整理，开源后会在这里补上链接。
+> The AI Agent Playground repo is still being cleaned up and will be linked here once published.
 
 ## Contact / 联系我
 
