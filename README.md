@@ -5,8 +5,8 @@
 **Undergraduate · Class of 2027 · Dongguan, China**
 本科应届生 · 2027 届 · 广东东莞
 
-Building at the intersection of **Web Frontend** and **LLM Agents**.
-在 **Web 前端** 与 **LLM Agent** 之间做东西。
+Building **agent systems** — with a frontend craft behind them.
+以 **Agent 工程** 为主线，把前端当作实现手段。
 
 [![GitHub](https://img.shields.io/badge/GitHub-WL--117-181717?logo=github&logoColor=white)](https://github.com/WL-117)
 [![Email](https://img.shields.io/badge/Email-steam9710%40qq.com-EA4335?logo=gmail&logoColor=white)](mailto:steam9710@qq.com)
@@ -17,7 +17,7 @@ Building at the intersection of **Web Frontend** and **LLM Agents**.
 
 ## About Me / 关于我
 
-- **Focus** · 关注方向：前端工程化（Vue 3 / uni-app）与 LLM Agent 的应用落地。
+- **Focus** · 关注方向：以 Agent 工程为主（LangGraph / LLM 应用落地），前端（Vue 3 / uni-app）作为实现手段。
 - **Learning** · 正在深入：LangGraph、Agent 工作流编排、Python 工程化。
 - **Interests** · 兴趣：把课程里的想法做成能真正跑起来的小产品。
 - **Open to** · 求职方向：Agent 工程。
@@ -32,19 +32,19 @@ Building at the intersection of **Web Frontend** and **LLM Agents**.
 
 ## Featured Projects / 项目
 
-### Campus Dormitory Repair App / 校园宿舍报修 APP
-`uni-app x` · `Vue 3` · `Node.js` — *Public · 已完成*
-
-面向校园场景的宿舍报修系统：报修提交、工单流转与状态跟踪，配套管理端派单与零依赖后端。
-A campus repair system covering request submission, ticket routing and status tracking, with an admin console and a zero-dependency Node backend.
-
-[源码仓库 →](https://github.com/WL-117/campus-dorm-repair-app)
-
 ### AI Agent Playground
 `Python` · `LangGraph` · `LLM` — *In progress / 进行中*
 
 用 LangGraph 编排的多步 Agent 实验：工具调用、状态流转与失败重试的实践记录。
 Multi-step agent experiments built on LangGraph — tool calling, state flow and retry strategies.
+
+### Campus Dormitory Repair App / 校园宿舍报修 APP
+`uni-app x` · `Vue 3` · `Node.js` · `MySQL` — *Public · 已完成*
+
+面向校园场景的宿舍报修系统：报修提交、工单流转与状态跟踪，配套管理端派单与 Node.js + MySQL 后端。
+A campus repair system covering request submission, ticket routing and status tracking, with an admin console and a Node.js + MySQL backend.
+
+[源码仓库 →](https://github.com/WL-117/campus-dorm-repair-app)
 
 > AI Agent Playground 的仓库还在整理，开源后会在这里补上链接。
 > The AI Agent Playground repo is still being cleaned up and will be linked here once published.
